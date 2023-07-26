@@ -1,3 +1,15 @@
-"scripts": {
-  "build": "marp md/*.md --output public/"
+{
+  "name": "your-app-name",
+  "version": "1.0.0",
+  "description": "Your app description",
+  "main": "index.js",
+  "scripts": {
+    "build": "marp md/*.md --output public/"
+  },
+  "dependencies": {
+    "package-name": "^1.0.0"
+  },
+  "devDependencies": {
+    "marp-cli": "^0.23.1"
+  }
 }
