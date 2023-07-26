@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "marp ./md/*.md --output ./public"
+    "build": "for file in ./md/*.md; do marp $file --output ./public/$(basename $file .md).html; done"
   },
   "devDependencies": {
     "@marp-team/marp-cli": "latest"
