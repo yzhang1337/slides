@@ -1,7 +1,9 @@
 {
   "scripts": {
-    "build": "for file in ./md/*.md; do marp $file --output ./public/$(basename $file .md).html; done"
-  },
+    "slides": "./convert.sh",
+    "index": "node generate-index.js",
+    "build": "npm run slides && npm run index"
+},
   "devDependencies": {
     "@marp-team/marp-cli": "latest"
   }
