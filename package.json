@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "marp md/*.md --output public/"
+    "build": "marp ./md/*.md --output ./public"
   },
   "devDependencies": {
     "@marp-team/marp-cli": "latest"
