@@ -20,7 +20,7 @@ fs.readdir(dirPath, (err, files) => {
 
     html += "</body>\n</html>";
 
-    fs.writeFile('public/index.html', html, (err) => {
+    fs.writeFile('index.html', html, (err) => {
         if (err) throw err;
     });
 });
