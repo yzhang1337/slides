@@ -14,7 +14,7 @@ Yilun Zhang
 
 ---
 # Physiology
-![bg fit](/Users/yilunzhang/Dropbox/slides/images/hyperkalemia/3.png)
+![bg fit](../images/hyperkalemia/3.png)
 
 ---
 # Etiology
@@ -28,7 +28,7 @@ The most common causes of hyperkalemia include:
 potassium shifts (rhabdomyolysis, hemolysis, hyperosmolality, insulin deficiency, β-adrenergic blockade, and metabolic acidosis)
 
 ---
-![](/Users/yilunzhang/Dropbox/slides/images/hyperkalemia/1.jpeg)
+![](../images/hyperkalemia/1.jpeg)
 
 ---
 # EKG Findings
@@ -40,7 +40,7 @@ potassium shifts (rhabdomyolysis, hemolysis, hyperosmolality, insulin deficiency
 
 > :star: Significant hyperkalemia associated with a normal ECG suggests *pseudohyperkalemia*.
 
-![bg right fit](/Users/yilunzhang/Dropbox/slides/images/hyperkalemia/2.jpeg)
+![bg right fit](../images/hyperkalemia/2.jpeg)
 
 ---
 # Treatment 
