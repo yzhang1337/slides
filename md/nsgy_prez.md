@@ -3,7 +3,11 @@ marp: true
 theme: default
 paginate: true
 size: 16:9
+header: '7/27/23'
+footer: 'slides.yilunzhang.com'
 ---
+<!--backgroundColor: #15202B -->
+<!--color: #FFFFFF -->
 # Using Computer Vision in the Assessment of Neurosurgical Skill
 
 
@@ -43,11 +47,13 @@ class Neuron(object):
 
 ---
 
-![bg left fit](https://share.cleanshot.com/7ljNm3Hrhq1l6HKv6Zfg+)
+![](https://share.cleanshot.com/7ljNm3Hrhq1l6HKv6Zfg+)
 
-![](https://share.cleanshot.com/fPJ52hrPzQbm3KmywZ9Y+)
+![bg right fit](https://share.cleanshot.com/fPJ52hrPzQbm3KmywZ9Y+)
 
 ---
+<!--- _header: '' --->
+<!--- _footer: '' --->
 # Surgical Skill assessment
 
 
@@ -83,6 +89,7 @@ class Neuron(object):
 # Current Applications in Neurosurgery
 
 ---
+<!--- _header: '' --->
 
 # Surgical Flow
 
@@ -91,14 +98,14 @@ class Neuron(object):
 
 
 ---
-![bg left fit](https://share.cleanshot.com/zfQjTnBX5f413XVWZm9X+)
+![](https://share.cleanshot.com/zfQjTnBX5f413XVWZm9X+)
 
-![](https://share.cleanshot.com/9yxlSJRQrvLhwZK4p0r2+)
+![bg right fit](https://share.cleanshot.com/9yxlSJRQrvLhwZK4p0r2+)
 
 ---
-![bg left fit](https://share.cleanshot.com/GzHxB5L86stqjpdtJX01+)
+![](https://share.cleanshot.com/GzHxB5L86stqjpdtJX01+)
 
-![](https://share.cleanshot.com/yhChNgdHb0CxlV09qDF0+)
+![bg right fit](https://share.cleanshot.com/yhChNgdHb0CxlV09qDF0+)
 
 ---
 
@@ -204,7 +211,7 @@ class Neuron(object):
 # Thank You
 
 - Any questions?
-- slides are on [](slides.yilunzhang.com) if anyone is interested
+- slides available online
 
 ![bg right 80%](https://www.tuftsmedicalcenter.org/-/media/Images/Physicians/Bugaev_Nikolay.ashx)
 ![bg right 80%](https://www.tuftsmedicalcenter.org/-/media/Images/Content/TuftsMC/Departments-and-Services/Surgery/Residents/richard_caroline.ashx?h=100&w=90&la=en&hash=49D827B14D082045B1C8271A7FBD636C40098673)
@@ -215,17 +222,6 @@ class Neuron(object):
 ---
 # RECYCLING BIN
 ---
-file:///Users/yilunzhang/Dropbox/slides/test.mp4
-# References
-
-
----
-#### NOTES
-marp
-### 10 MINUTES
-
-
-
 # INSTRUMENT BASED
 
 ## Baghdadi 2023 (NATURE)
@@ -243,7 +239,7 @@ marp
 ## Deepika 2023
 
 
-
+---
 
 # NON-instrument tracking based
 #### Glove
@@ -261,31 +257,4 @@ https://paperpile.com/app/p/a147c271-24ee-079d-98c9-ae0437e29adc
 
 #####
 
----
-
-<img src="../test.gif" />
-
-
-
-# Table of Contents
-
-1. Introduction to Computer Vision [0.5]
-2. Computer Vision in Surgery [1]
-3. Applications in Surgical Skill [1]
-
-
-2. Neurosurgical Skill Assessment
-- Validation of the UpSurgeOn TNS Box [1]
-
-
-3. Role of Computer Vision in Neurosurgical Skill Assessment [1]
-
-4. Case Studies of Instrument Based Methods
-	- Davids 2021 [1]
-	- Pangal 2021 (Tool annotation) [0.5]
-	-  Koskinen 2023 (Grasp) [1]
-	-  Baghdadi 2023 [1]
-	- Deepika 2023 [1]
-5. Challenges and Future Perspectives
-6. Conclusion
 ---
