@@ -11,30 +11,6 @@ size: 16:9
 
 ---
 
-# Table of Contents
-
-1. Introduction to Computer Vision [0.5]
-2. Computer Vision in Surgery [1]
-3. Applications in Surgical Skill [1]
-
-
-2. Neurosurgical Skill Assessment
-- Validation of the UpSurgeOn TNS Box [1]
-
-
-3. Role of Computer Vision in Neurosurgical Skill Assessment [1]
-
-4. Case Studies of Instrument Based Methods
-	- Davids 2021 [1]
-	- Pangal 2021 (Tool annotation) [0.5]
-	-  Koskinen 2023 (Grasp) [1]
-	-  Baghdadi 2023 [1]
-	- Deepika 2023 [1]
-5. Challenges and Future Perspectives
-6. Conclusion
-
----
-
 # Introduction to Computer Vision
 ---
 
@@ -78,15 +54,6 @@ class Neuron(object):
 ![](https://share.cleanshot.com/HHRKqtnlL5CR0nDcNVXD+)
 
 ---
-# Computer Vision's Achilles Heel?
-
-* Data
-* Labels
-* Compute
-
-![bg fit right](https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/visionblender-example-results-of-some-generated-ground-truth-map_1601999412678_x2.jpg?r=1646)
-
----
 
 # So why does this matter?
 ![](https://share.cleanshot.com/tsb5THPBy02XPsx5fYRv+)
@@ -100,7 +67,15 @@ class Neuron(object):
 * Feed robotic systems stereotactic techniques and real-time intraoperative imaging 
 * Auto-pilot? :rocket:
 
+---
 
+# Computer Vision's Achilles Heel?
+
+* Data
+* Labels
+* Compute
+
+![bg fit right](https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/visionblender-example-results-of-some-generated-ground-truth-map_1601999412678_x2.jpg?r=1646)
 
 
 ---
@@ -169,19 +144,72 @@ class Neuron(object):
 
 ---
 
+![](https://share.cleanshot.com/5kh7gDw2pPjD46PVQM94+)
+
 ---
 
+![](https://share.cleanshot.com/87Qs7z8C20GtQlTr6bRt+)
+
+---
+
+![](https://share.cleanshot.com/FsbXCT76bJZ8MHlc48yl+)
+
+---
+
+![](https://share.cleanshot.com/hBzkdlFPncywpH6vwRQ0+)
+
+---
+# Surgical Flow :white_check_mark:
+# Intra-operative guidance :white_check_mark:
+# Surgical Skill Assessment :white_check_mark:
+# Coming to an OR near you ... :fast_forward:
+---
 # Conclusion
 
-- Summarize the presentation
-- Final thoughts
+- AI is coming for all of our jobs
+- Software > Hardware
+- Importance of clinicians to drive, validate and practice good *A.I. Stewardship*
+
+---
+# Future directions...
+
+### Things that we have done...
+
+* Recorded 250 open surgical cases at BIDMC from colorectal to plastics
+* At least 2 cohorts of general surgery residents at BIDMC undergoing longitudinal skill tracking from PGY-1 to PGY-N
+* Recorded 17 open surgical cases here at TMC (and counting...)
+* Piloted bowel anastamosis resident skill assessment with the general surgery residents at Lahey
+
+### Things that we are doing ...
+* Recording more cases at BIDMC and TMC... and hopefully Lahey soon! 
+* Using *surgical signatures* and NLP to build the largest, annotated, open source surgical video database for research and academic purposes 
+* Continuously iterating on CV model improvement w/ Stanford Computer Science
+* Pilotting medical student suturing/tying application with Harvard Medical Students
+
+
+### Potential interesting things to do ...
+
+* GPS-like turn by turn intra-operative guidance
+* Distinguishing surgical **style** versus **technique** within/across surgeons
+* Automatic operative note generation
+* and more...! 
+
 
 ---
 
 # Thank You
 
 - Any questions?
+- slides are on [](slides.yilunzhang.com) if anyone is interested
 
+![bg right 80%](https://www.tuftsmedicalcenter.org/-/media/Images/Physicians/Bugaev_Nikolay.ashx)
+![bg right 80%](https://www.tuftsmedicalcenter.org/-/media/Images/Content/TuftsMC/Departments-and-Services/Surgery/Residents/richard_caroline.ashx?h=100&w=90&la=en&hash=49D827B14D082045B1C8271A7FBD636C40098673)
+
+
+
+
+---
+# RECYCLING BIN
 ---
 file:///Users/yilunzhang/Dropbox/slides/test.mp4
 # References
@@ -232,4 +260,28 @@ https://paperpile.com/app/p/a147c271-24ee-079d-98c9-ae0437e29adc
 ---
 
 <img src="../test.gif" />
+
+
+
+# Table of Contents
+
+1. Introduction to Computer Vision [0.5]
+2. Computer Vision in Surgery [1]
+3. Applications in Surgical Skill [1]
+
+
+2. Neurosurgical Skill Assessment
+- Validation of the UpSurgeOn TNS Box [1]
+
+
+3. Role of Computer Vision in Neurosurgical Skill Assessment [1]
+
+4. Case Studies of Instrument Based Methods
+	- Davids 2021 [1]
+	- Pangal 2021 (Tool annotation) [0.5]
+	-  Koskinen 2023 (Grasp) [1]
+	-  Baghdadi 2023 [1]
+	- Deepika 2023 [1]
+5. Challenges and Future Perspectives
+6. Conclusion
 ---
