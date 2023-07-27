@@ -5,6 +5,10 @@ paginate: true
 size: 16:9
 ---
 # Using Computer Vision in the Assessment of Neurosurgical Skill
+
+
+![bg right](https://imgc.allpostersimages.com/img/posters/damn-it-i-m-a-brain-surgeon-not-a-rocket-scientist-new-yorker-cartoon_u-L-PGPNYV0.jpg?artPerspective=n)
+
 ---
 
 # Table of Contents
@@ -68,6 +72,12 @@ class Neuron(object):
 ![](https://share.cleanshot.com/fPJ52hrPzQbm3KmywZ9Y+)
 
 ---
+# Surgical Skill assessment
+
+
+![](https://share.cleanshot.com/HHRKqtnlL5CR0nDcNVXD+)
+
+---
 # Computer Vision's Achilles Heel?
 
 * Data
@@ -83,43 +93,81 @@ class Neuron(object):
 
 ---
 # Assuming we have perfect Computer Vision models*
-* Assessment of Trainees
+* Assessment of Trainees and increased real-time and longitudinal feedback for accelerated learning
 * Defining **Good** surgical technique, behaviors, flow
 * Spatiotemporally model the **Good** surgical technique in 3D using hands/instruments
 * Translate to Robotics and/or increasingly *Minimally Invasive techniques*
+* Feed robotic systems stereotactic techniques and real-time intraoperative imaging 
 * Auto-pilot? :rocket:
 
 
----
 
-# Neurosurgical Skill Assessment
-
-- Importance of neurosurgical skill assessment
-- Current techniques used for assessment
-
-![](https://share.cleanshot.com/HHRKqtnlL5CR0nDcNVXD+)
 
 ---
 
-# Role of Computer Vision in Neurosurgical Skill Assessment
-
-- How computer vision can be used in neurosurgical skill assessment
-- Benefits of using computer vision
+# Current Applications in Neurosurgery
 
 ---
 
-# Case Studies
+# Surgical Flow
 
-- Case study 1
-- Case study 2
-- Case study 3
+![](https://share.cleanshot.com/cgnjMp2pCdFh5jl3SfhP+)
+
+
+
+---
+![bg left fit](https://share.cleanshot.com/zfQjTnBX5f413XVWZm9X+)
+
+![](https://share.cleanshot.com/9yxlSJRQrvLhwZK4p0r2+)
+
+---
+![bg left fit](https://share.cleanshot.com/GzHxB5L86stqjpdtJX01+)
+
+![](https://share.cleanshot.com/yhChNgdHb0CxlV09qDF0+)
 
 ---
 
-# Challenges and Future Perspectives
 
-- Current challenges in using computer vision for neurosurgical skill assessment
-- Future perspectives
+![](https://share.cleanshot.com/0s68sxv8xbL6QG0PCdSG+)
+
+![](https://share.cleanshot.com/prPS7Nnn4klVy75XF7TN+)
+
+
+---
+
+# Surgical Flow :white_check_mark:
+# Intra-operative guidance
+
+---
+![bg fit](https://share.cleanshot.com/1WP8F2hXp3dmXtSVkN07+)
+
+---
+
+![bg fit](https://share.cleanshot.com/4rKtrRGHwNMYQ4SsjwvL+)
+
+---
+
+![bg fit](https://share.cleanshot.com/Vr86mgtzMc3DNHFqsr1S+)
+
+---
+
+# Surgical Flow :white_check_mark:
+# Intra-operative guidance :white_check_mark:
+# Surgical Skill Assessment 
+
+---
+
+![bg fit](https://share.cleanshot.com/dRW2w09WTdVj9Jf0yQbt+)
+
+---
+
+![bg fit](https://share.cleanshot.com/tF7N9qLWP4PRPGWSwKdF+)
+
+---
+
+![bg fit](https://share.cleanshot.com/WNhHXgL4F8ynf9R8J66g+)
+
+---
 
 ---
 
