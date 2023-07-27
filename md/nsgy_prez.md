@@ -180,13 +180,17 @@ class Neuron(object):
 * Recorded 17 open surgical cases here at TMC (and counting...)
 * Piloted bowel anastamosis resident skill assessment with the general surgery residents at Lahey
 
+---
+# Future directions...
+
 ### Things that we are doing ...
 * Recording more cases at BIDMC and TMC... and hopefully Lahey soon! 
 * Using *surgical signatures* and NLP to build the largest, annotated, open source surgical video database for research and academic purposes 
 * Continuously iterating on CV model improvement w/ Stanford Computer Science
 * Pilotting medical student suturing/tying application with Harvard Medical Students
 
-
+---
+# Future directions...
 ### Potential interesting things to do ...
 
 * GPS-like turn by turn intra-operative guidance
